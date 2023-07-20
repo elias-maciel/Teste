@@ -40,8 +40,8 @@ namespace test.obj
              while (fim =="sim"); //enquanto a condiçaoverdadeira//
              
                 Console.WriteLine("fim do seu pedido");
-                Console.WriteLine("total pedido, tchau" , TotalPedido());
-                informarItemPedido();
+                Console.WriteLine("total pedido, tchau" , p.TotalPedido());
+                p.informarItemPedido();
         }
     
     }

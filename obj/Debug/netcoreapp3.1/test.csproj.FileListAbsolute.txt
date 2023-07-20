@@ -3,3 +3,12 @@
 /workspaces/Teste/obj/Debug/netcoreapp3.1/test.AssemblyInfoInputs.cache
 /workspaces/Teste/obj/Debug/netcoreapp3.1/test.AssemblyInfo.cs
 /workspaces/Teste/obj/Debug/netcoreapp3.1/test.csproj.CoreCompileInputs.cache
+/workspaces/Teste/bin/Debug/netcoreapp3.1/test
+/workspaces/Teste/bin/Debug/netcoreapp3.1/test.deps.json
+/workspaces/Teste/bin/Debug/netcoreapp3.1/test.runtimeconfig.json
+/workspaces/Teste/bin/Debug/netcoreapp3.1/test.runtimeconfig.dev.json
+/workspaces/Teste/bin/Debug/netcoreapp3.1/test.dll
+/workspaces/Teste/bin/Debug/netcoreapp3.1/test.pdb
+/workspaces/Teste/obj/Debug/netcoreapp3.1/test.dll
+/workspaces/Teste/obj/Debug/netcoreapp3.1/test.pdb
+/workspaces/Teste/obj/Debug/netcoreapp3.1/test.genruntimeconfig.cache
