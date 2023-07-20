@@ -5,7 +5,7 @@ namespace test.obj
 {
     public class ItemPedido
     { 
-       string descricao;
-       int valor_unitario, quantidade;
+       public string descricao;
+       public int valor_unitario, quantidade;
     }
 }  

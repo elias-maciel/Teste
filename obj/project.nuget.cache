@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M5VK80diIPRAUyDpYfh1yd81o+If9fVCnwQADgDqwAhy1irvFKQpgo8aEATtxfEaSKpJeCksDmLVPGfvC16+uQ==",
+  "success": true,
+  "projectFilePath": "/workspaces/Teste/test.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

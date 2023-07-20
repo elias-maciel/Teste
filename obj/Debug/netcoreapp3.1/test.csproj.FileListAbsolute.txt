@@ -1,0 +1,5 @@
+/workspaces/Teste/obj/Debug/netcoreapp3.1/test.csproj.AssemblyReference.cache
+/workspaces/Teste/obj/Debug/netcoreapp3.1/test.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Teste/obj/Debug/netcoreapp3.1/test.AssemblyInfoInputs.cache
+/workspaces/Teste/obj/Debug/netcoreapp3.1/test.AssemblyInfo.cs
+/workspaces/Teste/obj/Debug/netcoreapp3.1/test.csproj.CoreCompileInputs.cache

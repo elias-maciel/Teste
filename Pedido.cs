@@ -7,8 +7,7 @@ namespace test.obj
    { 
      public string descricao;
      public int valor_unitario, quantidade;
-
-     private List<ItemPedido> listaPedido = new List<ItemPedido>();
+     public List<ItemPedido> listaPedido;
 
         public Pedido()
         {
@@ -21,9 +20,10 @@ namespace test.obj
             quantidade = q ;
             Console.WriteLine("siga as instruções!!!!");
         }
-        public addLista(ItemPedido item)
+        public void  addLista(ItemPedido item)
         {
-        Add.listaPedido(item);  
+            listaPedido.Add(item);  
+
         //recebendo novo item nessa funçao//
         }
 
@@ -40,7 +40,7 @@ namespace test.obj
             
             foreach (ItemPedido item in listaPedido)
             {
-                totalPedido = quantidade *= valor_unitario;
+                totalPedido += quantidade * valor_unitario;
             }
            return totalPedido ;
         }

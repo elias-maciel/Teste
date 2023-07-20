@@ -11,11 +11,11 @@ namespace test.obj
             int quantidade;
             int valor_unitario;
 
-            Pedido p = new List Pedido();
+            Pedido p = new Pedido();
             
          do{
 
-            ItemPedido item = new itemPedido();
+            ItemPedido item = new ItemPedido();
 
                 Console.WriteLine("ola, cliente!");
 
@@ -30,7 +30,7 @@ namespace test.obj
 
                 // criar objeto do tipo pedido e atribuir os valores do campo acima doo tipo itempedido//
 
-                p.Add.listaPedido(item);
+                p.addLista(item);
                 
                 Console.WriteLine("deseja adicionar algo mais (sim/nao)");
                 fim = Console.ReadLine();
